@@ -14,39 +14,37 @@
  
 ### Main skills:
 <div style="display: inline_block"><br>
-     <img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
-     <img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;   
-     <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;    
+  <a href="https://skillicons.dev">
+    <img height="40 "src="https://skillicons.dev/icons?i=js,react,ts" />
+  </a>  
 </div>
  
 ### Tools:
 <div style="display: inline_block"><br>
-     <img height="30" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
-     <img height="30" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;   
-     <img height="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">&nbsp;
-     <img height="30" alt="PS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">&nbsp;
-     <img height="30" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">&nbsp;    
+  <a href="https://skillicons.dev">
+    <img height="40 "src="https://skillicons.dev/icons?i=vscode,git,github,ps" />
+  </a>      
 </div>
  
 ### Other Knowledge:
 <div style="display: inline_block"><br>
-     <img height="30" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;
-     <img height="30" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;   
-     <img height="30" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;  
+  <a href="https://skillicons.dev">
+    <img height="40 "src="https://skillicons.dev/icons?i=html,css,mysql,azure" />
+  </a>  
 </div>
 
   
 ### Studying in this moment:
 <div style="display: inline_block"><br>
-     <img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;
-     <img height="30" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;   
-     <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;  
+  <a href="https://skillicons.dev">
+    <img height="40 "src="https://skillicons.dev/icons?i=js,react,ts" />
+  </a>  
 </div>
 
 ##
 <div>
   <p>Confira aqui meu Linkedin:</p>
-  <a href="https://www.linkedin.com/in/felipedestro/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipedestro/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 
 <div align="center">
