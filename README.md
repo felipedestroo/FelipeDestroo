@@ -20,7 +20,7 @@
 ### Tools:
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img height="40 "src="https://skillicons.dev/icons?i=vscode,git,github,ps" />
+    <img height="40 "src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
   </a>      
 </div>
  
