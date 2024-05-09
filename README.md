@@ -35,5 +35,5 @@
   <a href="https://www.linkedin.com/in/felipedestro/" target="_blank"><img height="40" src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aef7&height=120&section=footer"/>
 
