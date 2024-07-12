@@ -25,7 +25,7 @@
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img height="40 "src="https://skillicons.dev/icons?i=js,react,ts,next,tailwind" />
+    <img height="40 "src="https://skillicons.dev/icons?i=js,react,ts,next,tailwind,nodejs" />
   </a>  
 </div>
 
