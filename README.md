@@ -1,9 +1,9 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/felipedestroo/FelipeDestroo/blob/main/Gojo.jpg" alt="Gojo" style="width: 200%; border: none;"/>
+       <img src="https://github.com/felipedestroo/FelipeDestroo/blob/main/Gojo.jpg" alt="Gojo" style="width: 100%; border: none;"/>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 100%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
     𝑭𝒆𝒍𝒊𝒑𝒆 𝑫𝒆𝒔𝒕𝒓𝒐
