@@ -11,7 +11,7 @@
     │
     ├── /bio
     │   ├── brazilian - (pt/br + english)
-    │   ├── /computer science undergraduated (6th)
+    │   ├── /computer science undergraduated (7th)
     │   └── /First ALUMNI - First Robotics Competition Megazord#7563
     │
     │ 
