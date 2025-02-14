@@ -10,9 +10,9 @@
     /About_Me
     │
     ├── /bio
-    │   ├── brazilian - (pt/br + english)
-    │   ├── /computer science undergraduated (7th)
-    │   └── /First ALUMNI - First Robotics Competition Megazord#7563
+    │   ├── Brazilian - (Pt/Br + English)
+    │   ├── Computer Science undergraduated (7th)
+    │   └── First ALUMNI - First Robotics Competition Megazord#7563
     │
     │ 
     ├── /frontend
