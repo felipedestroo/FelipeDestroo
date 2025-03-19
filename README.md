@@ -20,6 +20,9 @@
     │   ├── TypeScript
     │   ├── Next.js
     │   ├── React
+    │   ├── Angular
+    │   ├── Vue.js
+    │   ├── Sass
     │   └── Tailwind CSS
     │
     │
@@ -36,6 +39,7 @@
         ├── Git
         ├── Figma    
         ├── Postman
+        ├── Docker
         └── Azure     
   </tr>
 </table>
