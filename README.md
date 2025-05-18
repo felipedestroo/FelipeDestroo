@@ -1,6 +1,3 @@
-<table style="width: 100%" align="left">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
 
     /About_Me
     │
